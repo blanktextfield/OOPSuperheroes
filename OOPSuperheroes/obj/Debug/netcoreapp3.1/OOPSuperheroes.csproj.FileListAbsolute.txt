@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.exe
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.deps.json
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.runtimeconfig.json
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.dll
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\bin\Debug\netcoreapp3.1\OOPSuperheroes.pdb
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.AssemblyInfo.cs
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.dll
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.pdb
+C:\Users\mammu\source\repos\OOPSuperheroes\OOPSuperheroes\obj\Debug\netcoreapp3.1\OOPSuperheroes.genruntimeconfig.cache
